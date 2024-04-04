@@ -5,4 +5,4 @@
 Before the infrastructure deployment, we will build images for these applications and push them to separate ECR (Amazon Elastic Container Registry) repositories. In order to do that,
 we need to authenticate Docker to an ECR repository by running the "aws ecr get-login-password" command.
 
-##1- Login to ECR
+## 1- Login to ECR
